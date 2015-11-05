@@ -25,8 +25,9 @@ public class P_030 {
 	void start(boolean Time) {
 		
 		long startTime = System.currentTimeMillis();
-		int range = (int)Math.pow(10, POWER+1);
-		int sum = 0;
+		int  range 	   = (int)Math.pow(10, POWER+1);
+		int  sum 	   = 0;
+		
 		for (int i = 2; i < range ; i++){
 			int sop = 0;
 			String tmp = Integer.toString(i);

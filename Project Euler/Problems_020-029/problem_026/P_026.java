@@ -19,7 +19,7 @@ Where 0.1(6) means 0.166666..., and has a 1-digit recurring cycle. It can be see
 
 Find the value of d < 1000 for which 1/d contains the longest recurring cycle in its decimal fraction part.
 */
-//NB: DIT MOET IK OPZOEKEN. T_T
+//NB: Need to look this up. T_T
 
 public class P_026 {
 
@@ -40,6 +40,4 @@ public class P_026 {
 	public static void main(String[] args) {
 		new P_026().start();
 	}
-
 }
-
